@@ -1,3 +1,13 @@
+TN Notes:
+This project uses branches to show the different phases of coding for 
+the React Tutorial https://reactjs.org/tutorial/tutorial.html
+
+The master branch is the beginning with the create-react-app default code removed from the src folder
+and some starter code for index.js and index.css
+the remaining branches (part2 thru the last part) show how the code evolves to a complete game.
+
+It is best to follow the tutorial from start to finish using your own repository and using this as a reference if you get stuck.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
