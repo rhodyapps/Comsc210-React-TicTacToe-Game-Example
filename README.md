@@ -6,6 +6,10 @@ The master branch is the beginning with the create-react-app default code remove
 and some starter code for index.js and index.css
 the remaining branches (part2 thru the last part) show how the code evolves to a complete game.
 
+Clone the repo, in VS Code cd to the directory where you cloned the app.
+Run: npm install 
+Run: npm start
+
 It is best to follow the tutorial from start to finish using your own repository and using this as a reference if you get stuck.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
