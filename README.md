@@ -1,3 +1,9 @@
+Updated version of the tic tac toe game tutorial
+
+1. clone the repository 
+2. npm install
+3. npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
