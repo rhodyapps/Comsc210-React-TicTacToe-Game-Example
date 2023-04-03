@@ -1,4 +1,5 @@
-Updated version of the tic tac toe game tutorial
+Updated 4/2023 version of the tic tac toe game tutorial
+https://react.dev/learn/tutorial-tic-tac-toe
 
 1. clone the repository 
 2. npm install
