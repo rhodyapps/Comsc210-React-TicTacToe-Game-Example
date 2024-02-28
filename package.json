@@ -5,7 +5,7 @@
   },
   "main": "/index.js",
   "devDependencies": {
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^3.0.1"
   },
   "name": "i18f1x",
   "description": null,
